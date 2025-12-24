@@ -6,7 +6,6 @@ brew install \
   openjdk \
   python \
   node \
-  docker \
   kubectl \
   helm \
   terraform \

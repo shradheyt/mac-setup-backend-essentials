@@ -39,5 +39,7 @@ brew install \
   neovim
 
 brew install --cask \
-  iterm2
+  iterm2 \
+  docker \
+  vscodium
 
